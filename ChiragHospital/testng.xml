@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+
+  <!-- <test thread-count="5" name="ieTest">
+   <parameter name="browser" value="IE" />
+   
+   
+  <classes>
+ 
+ <class name="testCase.SaleInvoiceNewCreate" />
+ 
+ </classes>
+  
+  </test> --> <!-- Test -->
+  
+  
+  <!-- <test thread-count="5" name="edgeTest">
+    <parameter name="browser" value="edge" />
+  
+   
+  <classes>
+ 
+ <class name="testCase.EdgeRunner" />
+ 
+ </classes>
+  
+  </test> --> <!-- Test -->
+  
+   <!--  <test thread-count="5" name="firefoxTest1">
+   <parameter name="browser" value="firefox1" />
+  
+   
+  <classes>
+ 
+ <class name="testCase.SaleInvoiceNewCreate" />
+ 
+ </classes>
+  
+  </test>  -->
+  
+ <!--  <test thread-count="5" name="firefoxTest2">
+   <parameter name="browser" value="firefox2" />
+  
+   
+  <classes>
+ 
+ <class name="testCase.SaleInvoiceNewCreate" />
+ 
+ </classes>
+  
+  </test>
+  
+  <test thread-count="5" name="firefoxTest3">
+   <parameter name="browser" value="firefox3" />
+  
+   
+  <classes>
+ 
+ <class name="testCase.SaleInvoiceNewCreate" />
+ 
+ </classes>
+  
+  </test>
+  
+  <test thread-count="5" name="firefoxTest4">
+   <parameter name="browser" value="firefox4" />
+  
+   
+  <classes>
+ 
+ <class name="testCase.SaleInvoiceNewCreate" />
+ 
+ </classes>
+  
+  </test>
+  
+  <test thread-count="5" name="firefoxTest5">
+   <parameter name="browser" value="firefox5" />
+  
+   
+  <classes>
+ 
+ <class name="testCase.SaleInvoiceNewCreate" />
+ 
+ </classes>
+  
+  </test>
+  
+  <test thread-count="5" name="firefoxTest6">
+   <parameter name="browser" value="firefox6" />
+  
+   
+  <classes>
+ 
+ <class name="testCase.SaleInvoiceNewCreate" />
+ 
+ </classes>
+  
+  </test> -->
+  
+    <test thread-count="2" name="chromeTest1">
+    <parameter name="browser" value="chrome1" />
+  
+   
+  <classes>
+ 
+ <class name="testCase.SaleInvoiceNewCreate" />
+ 
+ </classes>
+  
+  </test> <!-- Test -->
+  
+  <test thread-count="2" name="chromeTest2">
+    <parameter name="browser" value="chrome2" />
+  
+   
+  <classes>
+ 
+ <class name="testCase.SaleInvoiceNewCreate" />
+ 
+ </classes>
+  
+  </test>
+  
+  <test thread-count="2" name="chromeTest3">
+    <parameter name="browser" value="chrome3" />
+  
+   
+  <classes>
+ 
+ <class name="testCase.SaleInvoiceNewCreate" />
+ 
+ </classes>
+  
+  </test>
+  
+    
+  
+  <test thread-count="2" name="chromeTest4">
+    <parameter name="browser" value="chrome4" />
+  
+   
+  <classes>
+ 
+ <class name="testCase.SaleInvoiceNewCreate" />
+ 
+ </classes>
+  
+  </test>
+  
+  <test thread-count="2" name="chromeTest5">
+    <parameter name="browser" value="chrome5" />
+  
+   
+  <classes>
+ 
+ <class name="testCase.SaleInvoiceNewCreate" />
+ 
+ </classes>
+  
+  </test>
+  
+  <test thread-count="2" name="chromeTest6">
+    <parameter name="browser" value="chrome6" />
+  
+   
+  <classes>
+ 
+ <class name="testCase.SaleInvoiceNewCreate" />
+ 
+ </classes>
+  
+  </test>
+  
+  <test thread-count="2" name="chromeTest7">
+    <parameter name="browser" value="chrome7" />
+  
+   
+  <classes>
+ 
+ <class name="testCase.SaleInvoiceNewCreate" />
+ 
+ </classes>
+  
+  </test>
+  
+    
+  <test thread-count="2" name="chromeTest8">
+    <parameter name="browser" value="chrome8" />
+  
+   
+  <classes>
+ 
+ <class name="testCase.SaleInvoiceNewCreate" />
+ 
+ </classes>
+  
+  </test>
+  
+    <test thread-count="2" name="chromeTest9">
+    <parameter name="browser" value="chrome9" />
+  
+   
+  <classes>
+ 
+ <class name="testCase.SaleInvoiceNewCreate" />
+ 
+ </classes>
+  
+  </test>
+  
+      <test thread-count="2" name="chromeTest10">
+    <parameter name="browser" value="chrome10" />
+  
+   
+  <classes>
+ 
+ <class name="testCase.SaleInvoiceNewCreate" />
+ 
+ </classes>
+  
+  </test>
+  
+  
+</suite> <!-- Suite -->

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="chromeTest2(failed)">
+    <parameter name="browser" value="chrome2"/>
+    <classes>
+      <class name="testCase.SaleInvoiceNewCreate">
+        <methods>
+          <include name="tearDown"/>
+          <include name="createSales"/>
+          <include name="setUP"/>
+        </methods>
+      </class> <!-- testCase.SaleInvoiceNewCreate -->
+    </classes>
+  </test> <!-- chromeTest2(failed) -->
+  <test thread-count="5" parallel="tests" name="chromeTest3(failed)">
+    <parameter name="browser" value="chrome3"/>
+    <classes>
+      <class name="testCase.SaleInvoiceNewCreate">
+        <methods>
+          <include name="tearDown"/>
+          <include name="createSales"/>
+          <include name="setUP"/>
+        </methods>
+      </class> <!-- testCase.SaleInvoiceNewCreate -->
+    </classes>
+  </test> <!-- chromeTest3(failed) -->
+  <test thread-count="5" parallel="tests" name="chromeTest4(failed)">
+    <parameter name="browser" value="chrome4"/>
+    <classes>
+      <class name="testCase.SaleInvoiceNewCreate">
+        <methods>
+          <include name="tearDown"/>
+          <include name="createSales"/>
+          <include name="setUP"/>
+        </methods>
+      </class> <!-- testCase.SaleInvoiceNewCreate -->
+    </classes>
+  </test> <!-- chromeTest4(failed) -->
+  <test thread-count="5" parallel="tests" name="chromeTest1(failed)">
+    <parameter name="browser" value="chrome1"/>
+    <classes>
+      <class name="testCase.SaleInvoiceNewCreate">
+        <methods>
+          <include name="tearDown"/>
+          <include name="createSales"/>
+          <include name="setUP"/>
+        </methods>
+      </class> <!-- testCase.SaleInvoiceNewCreate -->
+    </classes>
+  </test> <!-- chromeTest1(failed) -->
+  <test thread-count="5" parallel="tests" name="chromeTest6(failed)">
+    <parameter name="browser" value="chrome6"/>
+    <classes>
+      <class name="testCase.SaleInvoiceNewCreate">
+        <methods>
+          <include name="tearDown"/>
+          <include name="createSales"/>
+          <include name="setUP"/>
+        </methods>
+      </class> <!-- testCase.SaleInvoiceNewCreate -->
+    </classes>
+  </test> <!-- chromeTest6(failed) -->
+  <test thread-count="5" parallel="tests" name="chromeTest5(failed)">
+    <parameter name="browser" value="chrome5"/>
+    <classes>
+      <class name="testCase.SaleInvoiceNewCreate">
+        <methods>
+          <include name="tearDown"/>
+          <include name="createSales"/>
+          <include name="setUP"/>
+        </methods>
+      </class> <!-- testCase.SaleInvoiceNewCreate -->
+    </classes>
+  </test> <!-- chromeTest5(failed) -->
+  <test thread-count="5" parallel="tests" name="chromeTest7(failed)">
+    <parameter name="browser" value="chrome7"/>
+    <classes>
+      <class name="testCase.SaleInvoiceNewCreate">
+        <methods>
+          <include name="tearDown"/>
+          <include name="createSales"/>
+          <include name="setUP"/>
+        </methods>
+      </class> <!-- testCase.SaleInvoiceNewCreate -->
+    </classes>
+  </test> <!-- chromeTest7(failed) -->
+  <test thread-count="5" parallel="tests" name="chromeTest8(failed)">
+    <parameter name="browser" value="chrome8"/>
+    <classes>
+      <class name="testCase.SaleInvoiceNewCreate">
+        <methods>
+          <include name="tearDown"/>
+          <include name="createSales"/>
+          <include name="setUP"/>
+        </methods>
+      </class> <!-- testCase.SaleInvoiceNewCreate -->
+    </classes>
+  </test> <!-- chromeTest8(failed) -->
+  <test thread-count="5" parallel="tests" name="chromeTest9(failed)">
+    <parameter name="browser" value="chrome9"/>
+    <classes>
+      <class name="testCase.SaleInvoiceNewCreate">
+        <methods>
+          <include name="tearDown"/>
+          <include name="createSales"/>
+          <include name="setUP"/>
+        </methods>
+      </class> <!-- testCase.SaleInvoiceNewCreate -->
+    </classes>
+  </test> <!-- chromeTest9(failed) -->
+  <test thread-count="5" parallel="tests" name="chromeTest10(failed)">
+    <parameter name="browser" value="chrome10"/>
+    <classes>
+      <class name="testCase.SaleInvoiceNewCreate">
+        <methods>
+          <include name="tearDown"/>
+          <include name="createSales"/>
+          <include name="setUP"/>
+        </methods>
+      </class> <!-- testCase.SaleInvoiceNewCreate -->
+    </classes>
+  </test> <!-- chromeTest10(failed) -->
+</suite> <!-- Failed suite [Suite] -->
